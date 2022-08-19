@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jake
 
 - 👀 Drums, Hiking, and Photography
-- 🌱 Go and Ruby
+- 🌱 Spring Boot, Go, Vue.JS
 - 📫 jakeperkins123@gmail.com
 
 <!---
